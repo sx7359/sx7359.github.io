@@ -127,7 +127,7 @@ var rules = {
     "Are you saying 'No' just to be negative?",
   ],
   "~*x I was ~*y": [
-    "Were you really?",
+    "music is the best",
     "Perhaps I already knew you were ~y.",
     "Why do you tell me you were ~y now?",
   ],
