@@ -93,18 +93,13 @@ var rules = {
     "Don't you believe that dream has to do with your problem?",
   ],
   "~*x my mother ~*y": [
-    "Who else in your family ~y?",
-    "Tell me more about your family",
+    "I LOVE YOU",
   ],
   "~*x my father ~*y": [
-    "Your father?",
-    "Does he influence you strongly?",
-    "What else comes to mind when you think of your father?",
+    "I LOVE YOU"
   ],
   "~*x I am glad ~*y": [
-    "How have I helped you to be ~y?",
-    "What makes you happy just now?",
-    "Can you explain why you are suddenly ~y?",
+    "I LOVE YOU"
   ],
   "~*x I am sad ~*y": [
     "I am sorry to hear you are depressed",
@@ -228,12 +223,12 @@ var rules = {
 };
 
 var default_responses = [
-  "Very interesting",
-  "I am not sure I understand you fully",
-  "What does that suggest to you?",
-  "Please continue",
-  "Go on",
-  "Do you feel strongly about discussing such things?",
+  "I LOVE YOU",
+  "I LOVE YOU",
+  "I LOVE YOU",
+  "I LOVE YOU",
+  "I LOVE YOU",
+  "I LOVE YOU",
 ];
 
 function choice(lst) {
